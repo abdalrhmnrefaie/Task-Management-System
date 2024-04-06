@@ -1,0 +1,19 @@
+2024-02-08 23:26:42,820 INFO org.hibernate.validator.internal.util.Version [background-preinit] HV000001: Hibernate Validator 6.2.0.Final
+2024-02-08 23:26:42,844 INFO org.springframework.boot.StartupInfoLogger [main] Starting DataJpaBooksProjectApplication using Java 17.0.6 on DESKTOP-DQ9LU31 with PID 16940 (D:\project new\tools\spring boot\data-jpa-books-project2\target\classes started by abdal in D:\project new\tools\spring boot\data-jpa-books-project2)
+2024-02-08 23:26:42,845 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2024-02-08 23:26:44,265 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2024-02-08 23:26:44,341 INFO org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 63 ms. Found 2 JPA repository interfaces.
+2024-02-08 23:26:45,081 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2024-02-08 23:26:45,114 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2024-02-08 23:26:45,115 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2024-02-08 23:26:45,116 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.55]
+2024-02-08 23:26:45,205 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2024-02-08 23:26:45,205 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2288 ms
+2024-02-08 23:26:45,524 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+2024-02-08 23:26:45,716 INFO com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+2024-02-08 23:26:45,771 INFO org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+2024-02-08 23:26:45,850 INFO org.hibernate.Version [main] HHH000412: Hibernate ORM core version 5.6.1.Final
+2024-02-08 23:26:46,051 INFO org.hibernate.annotations.common.reflection.java.JavaReflectionManager [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2024-02-08 23:26:46,243 INFO org.hibernate.dialect.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL55Dialect
+2024-02-08 23:26:47,028 INFO org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2024-02-08 23:26:47,042 INFO org.springframework.orm.jpa.AbstractEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
